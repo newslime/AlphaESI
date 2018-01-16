@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Setting>
+  <FTP>
+    <HL9309>
+      <Hostname>10.224.26.69</Hostname>
+      <Path>/AlphaData/logs/wafers</Path>
+      <User>esi</User>
+      <Password>esi_user</Password>
+      <Folder>00Null.lot</Folder>
+    </HL9309>
+    <HL9308>
+      <Hostname>10.224.26.50</Hostname>
+      <Path>/AlphaData/logs/wafers</Path>
+      <User>esi</User>
+      <Password>esi_user</Password>
+      <Folder>00Null.lot</Folder>
+    </HL9308>
+    <Timeout>30000</Timeout>
+  </FTP>
+  <LocalPath>
+    <HL9309>
+      <Log>E:/Log/HL9309</Log>
+      <History>E:/History/HL9309</History>
+    </HL9309>
+    <HL9308>
+      <Log>E:/Log/HL9308</Log>
+      <History>E:/History/HL9308</History>
+    </HL9308>
+	
+	<SPC>E:\SPC</SPC>
+  </LocalPath>
+</Setting>

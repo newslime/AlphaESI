@@ -1,0 +1,16 @@
+C:\Users\newslime\Desktop\SMICS\SMICS_Drawing_2008\ElectricalMeasurement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\newslime\Desktop\SMICS\SMICS_Drawing_2008\ElectricalMeasurement\obj\Debug\SmicsWafer.Properties.Resources.resources
+C:\Users\newslime\Desktop\SMICS\SMICS_Drawing_2008\ElectricalMeasurement\obj\Debug\SmicsWafer.csproj.GenerateResource.Cache
+C:\Users\newslime\Desktop\SMICS\SMICS_Drawing_2008\ElectricalMeasurement\bin\Debug\SmicsWafer.exe
+C:\Users\newslime\Desktop\SMICS\SMICS_Drawing_2008\ElectricalMeasurement\bin\Debug\SmicsWafer.pdb
+C:\Users\newslime\Desktop\SMICS\SMICS_Drawing_2008\ElectricalMeasurement\obj\Debug\SmicsWafer.Form1.resources
+C:\Users\newslime\Desktop\SMICS\SMICS_Drawing_2008\ElectricalMeasurement\obj\Debug\SmicsWafer.exe
+C:\Users\newslime\Desktop\SMICS\SMICS_Drawing_2008\ElectricalMeasurement\obj\Debug\SmicsWafer.pdb
+C:\Users\newslime\Desktop\SMICS\SmicsWafer\ElectricalMeasurement\obj\Debug\SmicsWafer.exe
+C:\Users\newslime\Desktop\SMICS\SmicsWafer\ElectricalMeasurement\obj\Debug\SmicsWafer.pdb
+C:\Users\newslime\Desktop\SMICS\SmicsWafer\ElectricalMeasurement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\newslime\Desktop\SMICS\SmicsWafer\ElectricalMeasurement\obj\Debug\SmicsWafer.Form1.resources
+C:\Users\newslime\Desktop\SMICS\SmicsWafer\ElectricalMeasurement\obj\Debug\SmicsWafer.Properties.Resources.resources
+C:\Users\newslime\Desktop\SMICS\SmicsWafer\ElectricalMeasurement\obj\Debug\SmicsWafer.csproj.GenerateResource.Cache
+C:\Users\newslime\Desktop\SMICS\SmicsWafer\ElectricalMeasurement\bin\Debug\SmicsWafer.exe
+C:\Users\newslime\Desktop\SMICS\SmicsWafer\ElectricalMeasurement\bin\Debug\SmicsWafer.pdb
